@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryptor", "Encryptor\Encryptor.csproj", "{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decryptor", "Decryptor\Decryptor.csproj", "{C07093D3-BFF1-474C-87B6-785595FEE99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGen", "KeyGen\KeyGen.csproj", "{374CF301-AFDD-4BED-B007-825A8015FDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Debug|x86.Build.0 = Debug|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Release|x86.ActiveCfg = Release|Any CPU
+		{E348CC2C-17EF-4D7D-9F4C-3DF5EE654AC8}.Release|x86.Build.0 = Release|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Debug|x86.Build.0 = Debug|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Release|x86.ActiveCfg = Release|Any CPU
+		{C07093D3-BFF1-474C-87B6-785595FEE99D}.Release|x86.Build.0 = Release|Any CPU
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Debug|x86.ActiveCfg = Debug|x86
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Debug|x86.Build.0 = Debug|x86
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Release|Any CPU.ActiveCfg = Release|x86
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Release|x86.ActiveCfg = Release|x86
+		{374CF301-AFDD-4BED-B007-825A8015FDAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2469EA68-07EC-4D32-87D0-664EC2555DC6}
+	EndGlobalSection
+EndGlobal
